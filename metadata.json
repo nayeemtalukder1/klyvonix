@@ -1,0 +1,6 @@
+{
+  "name": "Klyvonix",
+  "description": "Klyvonix is a modern digital marketing, branding, and growth solutions agency that builds brands that grow through innovative creative strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
